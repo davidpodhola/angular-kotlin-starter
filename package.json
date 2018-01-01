@@ -33,6 +33,7 @@
         "css-loader": "^0.28.4",
         "file-loader": "^0.11.2",
         "html-loader": "^0.4.5",
+        "kotlin-webpack-plugin": "^1.0.8",
         "ncp": "^2.0.0",
         "node-sass": "^4.5.3",
         "sass-loader": "^6.0.6",
